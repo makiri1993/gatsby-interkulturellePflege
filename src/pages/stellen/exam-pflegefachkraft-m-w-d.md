@@ -1,6 +1,6 @@
 ---
 templateKey: stellenanzeige
-title_seo: Exam. Pflegefachkraft (m/w/d)  TITLE
+title_seo: Stellenanzeige Pflegekraft - Interkultureller Sozialdienst Hannover
 description_seo: Exam. Pflegefachkraft (m/w/d)  DESC
 title: Exam. Pflegefachkraft (m/w/d)
 text: >
@@ -20,7 +20,7 @@ text_one: >-
 list_one:
   list-items:
     - item: pflegerische Versorgung der Patienten
-    - item: 'Kommunikation mit Angehörigen, Ärzten usw.'
+    - item: "Kommunikation mit Angehörigen, Ärzten usw."
     - item: Pflegedokumentation
 list_two:
   list-items:
@@ -36,8 +36,7 @@ list_three:
     - item: umfangreiche Fort- und Weiterbildungsmöglichkeiten
     - item: leistungsgerechte Lohnzahlungen
     - item: betriebliche Gesundheitsförderung und Altersvorsorge
-    - item: 'Sonn-, Feiertags- und Nachtarbeitszuschläge'
-start: 'Einstellungstermin per sofort oder später '
+    - item: "Sonn-, Feiertags- und Nachtarbeitszuschläge"
+start: "Einstellungstermin per sofort oder später "
 number: 2
 ---
-

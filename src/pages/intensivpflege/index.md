@@ -29,7 +29,7 @@ list_one:
     - item: Pflegefachberatung
     - item: Kooperation mit weiteren Dienstleistern
     - item: Vermittlung von Pflegehilfsmitteln und Medizintechnik
-  title: ' '
+  title: " "
 list_two:
   list-items:
     - item: Überwachung der invasiven und nicht-invasiven Beatmung
@@ -37,7 +37,7 @@ list_two:
     - item: Sauerstofftherapie
     - item: EKG und CO² Überwachung
     - item: Beatmungspflege mit Trachealkanülenmanagement
-    - item: 'Ernährungstherapie mit PEG, PEJ Versorgung'
+    - item: "Ernährungstherapie mit PEG, PEJ Versorgung"
     - item: Infusionstherapie mit Portversorgung
     - item: Wund- und Schmerzmanagement
     - item: Individuelles Notfallmanagement
@@ -54,4 +54,3 @@ list_three:
     - item: Fort- und Weiterbildung unseres Fachpersonals
   title: Weitere Leistungen
 ---
-
